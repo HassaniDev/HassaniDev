@@ -10,7 +10,7 @@
 
 🌱 Currently working on passion projects. <br/>
 🔧 Learning Back-End Development to expand my skills. <br>
-📚 #LearningInPublic on my blog, [Gocoding](https://hashnode.com/@Hassani)
+📚 #LearningInPublic on my blog, [Gocoding](https://hashnode.com/@Oohnohassani)
 
 # 💻 Tech Stack
 
